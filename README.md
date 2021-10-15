@@ -1,7 +1,6 @@
 # Introduction
 
-Coasters Management - This project is used to manage the coasters. Users can Add, Edit, Delete the coasters from this application.
-
+Coasters Management - This endeavor is used to manage the coasters. Users can Add, Edit, Delete the coasters from this application.
 In visual studio code 2019, we are creating a new project named MVCcoasters. 
 In the Configure your new project dialog, enter MvcCoasters for Project name. And then select create. 
 
